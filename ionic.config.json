@@ -1,5 +1,7 @@
 {
   "name": "amstrongNumber",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
